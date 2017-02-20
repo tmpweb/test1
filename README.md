@@ -1,2 +1,3 @@
 # test1
-testowe repozytorium coby sie naumiec
+
+edycja na masterze
